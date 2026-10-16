@@ -6,6 +6,8 @@
 
 Сделан командой [SteamGate.online](https://steamgate.online/ru?utm_source=github&utm_medium=readme&utm_campaign=medieval-horse-dealer).
 
+[Страница перевода на PlayGround.ru](https://www.playground.ru/misc/file/medieval_horse_dealer_simulator_ispravlennyj_russkij_perevod_1_0_0-1882260).
+
 ![Главное меню Medieval Horse Dealer Simulator на русском](screenshots/menu.jpg)
 
 ## Что исправлено
